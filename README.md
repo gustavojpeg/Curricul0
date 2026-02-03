@@ -4,7 +4,7 @@
 Este é o repositório onde compartilho meu currículo feito em HTML e CSS.  
 Resolvi criar essa versão online para treinar minhas habilidades e também deixar meu currículo acessível de forma simples.
 
- Você pode visualizar meu currículo aqui: [[Clique para acessar]](https://gustavo7-pdf.github.io/Curr-culo-/)
+ Você pode visualizar meu currículo aqui: [[Clique para acessar]](https://gustavojpeg.github.io/Curricul0/)
 
 - Sobre mim:
 Meu nome é Gustavo Pereira Xavier, sou de Goiânia - GO.  
